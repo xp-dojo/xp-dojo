@@ -2,9 +2,9 @@ options:
   - title: Introduction
     url: docs/index.html
 
-  - title: Students
-    url: docs/students.html
-    section: students
+  - title: Lessons
+    url: docs/lessons.html
+    section: lessons
 
     nested_options:
      - title: "Lesson 1: TDD"
