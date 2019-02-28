@@ -1,0 +1,39 @@
+table {
+    margin-bottom: 24px;
+}
+
+.highlighter-rouge {
+    margin-bottom: 24px;
+}
+
+.content-wrapper a {
+    border-bottom: 1px dashed;
+}
+
+#sidebar-wrapper {
+    background: #1b1323;
+    -webkit-transition: none;
+    transition: none;
+}
+
+#wrapper {
+    -webkit-transition: none;
+    transition: none;
+}
+
+.jumbotron {
+    background-color: #364252;
+    background-image: none;
+}
+
+.nav .col-lg-12 {
+    background-color: #f4f3f4;
+}
+
+#content > .content-wrapper > section {
+    margin: 0;
+}
+
+.sidebar-nav > li a.active {
+    border-left: 3px solid #c71313;
+}
