@@ -16,8 +16,8 @@ An interactive session building a simple bank account using TDD and Pair Program
 
 During this session, you will:
 
-* practice implementing requirements using TDD
-* practice Pair Programming
+* Practice implementing requirements using TDD
+* Practice Pair Programming
 
 This is not a session to learn about any particular framework or library other than defacto unit test libraries (JUnit for Java, for example). There is generally no reliance on build tools and you should expect to be able to open project files in the IntelliJ IDEA or Eclipse IDEs.
 
