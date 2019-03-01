@@ -2,7 +2,6 @@
 layout: docs
 title: Introduction
 ---
-<a name="copyright"></a>
 # Copyright and License
 
 Copyright 2016-2017 Toby Weston. <http://baddotrobot.com>

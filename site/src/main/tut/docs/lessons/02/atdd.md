@@ -3,7 +3,7 @@ layout: docs
 title: ATDD
 ---
 
-## #2: ATDD
+# #2: ATDD
 
 An interactive session building from [Lesson 1] to explore acceptance testing.
 
