@@ -11,13 +11,3 @@ options:
        url: docs/lessons/01/tdd.html
      - title: "Lesson 2: ATDD"
        url: docs/lessons/02/atdd.html
-
-    # lesson plans
-  - title: Instructor Notes
-    url: docs/instructors.html
-    
-    nested_options:
-     - title: "Lesson 1: TDD Notes"
-       url: docs/instructors/lessons/01/tdd_instructor_notes.html
-     - title: "Lesson 2: ATDD Notes"
-       url: docs/instructors/lessons/02/atdd_instructor_notes.html
