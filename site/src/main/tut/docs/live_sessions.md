@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Lessons
+title: Live Sessions
 ---
 
-# The Lessons
+# The Live Sessions
 
 [TDD Bank Account]()
 [ATDD Bank Account]()

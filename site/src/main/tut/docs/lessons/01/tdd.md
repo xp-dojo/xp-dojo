@@ -3,7 +3,7 @@ layout: docs
 title: TDD
 ---
 
-## Lesson 1: TDD
+## #1: TDD
 
 An interactive session building a simple bank account using TDD and Pair Programming.
 
