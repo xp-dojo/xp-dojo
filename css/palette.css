@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+.technologies {
+  background: #848d98; }
+
+#site-header .navbar-wrapper a {
+  color: #fff; }
+
+#site-footer {
+  background: #364252; }
+
+::-moz-selection {
+  background: #5b5988;
+  color: #eeeeee; }
+
+::selection {
+  background: #5b5988;
+  color: #eeeeee; }
+
+.jumbotron {
+  background-color: #848d98; }
+  .jumbotron .btn-outline-inverse {
+    border: 2px solid #eeeeee;
+    color: #eeeeee; }
+    .jumbotron .btn-outline-inverse:hover, .jumbotron .btn-outline-inverse:focus {
+      background: #eeeeee;
+      color: #848d98; }
+
+pre {
+  background: rgba(244, 243, 244, 0.6); }
+  pre code {
+    color: inherit;
+    background-color: transparent; }
+  pre .hljs {
+    background: none; }
+
+body.docs {
+  background: #f4f3f4; }
+
+#content code {
+  color: #7b7b7e;
+  background-color: #f4f3f4; }
+
+#sidebar-wrapper {
+  background: #848d98; }
+
+#page-content-wrapper .nav a {
+  color: #7b7b7e; }
+  #page-content-wrapper .nav a:hover {
+    color: #7b7b7e; }
+  #page-content-wrapper .nav a i {
+    font-size: 18px; }
+
+.sidebar-nav > li a:hover {
+  background: #364252; }
+.sidebar-nav > li a.active {
+  border-left: 3px solid #5b5988;
+  color: #fff; }
+.sidebar-nav > .sidebar-brand a {
+  background: #364252; }
+  .sidebar-nav > .sidebar-brand a:hover {
+    background: #364252; }
