@@ -3,7 +3,7 @@ layout: docs
 title: Live Sessions
 ---
 
-# The Live Sessions
+# Live Sessions
 
-[TDD Bank Account]()
-[ATDD Bank Account]()
+* [TDD Bank Account]()
+* [ATDD Bank Account]()

@@ -11,11 +11,13 @@ options:
        url: docs/lessons/01/tdd.html
      - title: "#2: ATDD"
        url: docs/lessons/02/atdd.html
+     - title: "#3: Refactoring"
+       url: docs/live_sessions.html
 
   - title: Talks
-    url: docs/live_sessions.html
+    url: docs/talks.html
     section: talks
 
-  - title: Materials
-    url: docs/live_sessions.html
-    section: materials
+  - title: Coding Exercises
+    url: docs/exercises.html
+    section: exercisee

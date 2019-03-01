@@ -3,18 +3,26 @@ layout: docs
 title: TDD
 ---
 
-# #1: Test Driven Development
+# Test Driven Development
 
 An interactive session building a simple bank account using TDD and Pair Programming.
 
-1. [TDD Bank Account Kata](https://github.com/xp-dojo/bank-account-java) in Java
-1. [TDD Bank Account Kata]() in Kotlin
-1. [TDD Bank Account Kata]() in JavaScript
+ * [TDD Bank Account Kata](https://github.com/xp-dojo/bank-account-java) in Java
+ * [TDD Bank Account Kata]() in Kotlin
+ * [TDD Bank Account Kata]() in JavaScript
 
 
 ## Learning Objectives
 
+During this session, you will:
+
+* practice implementing requirements using TDD
+* practice Pair Programming
+
+This is not a session to learn about any particular framework or library other than defacto unit test libraries (JUnit for Java, for example). There is generally no reliance on build tools and you should expect to be able to open project files in the IntelliJ IDEA or Eclipse IDEs.
+
 ## Structure 
+
 
 ## Instructor Notes
 

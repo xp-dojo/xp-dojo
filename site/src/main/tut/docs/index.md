@@ -2,18 +2,10 @@
 layout: docs
 title: Introduction
 ---
-# Copyright and License
+# The Dojo
 
-Copyright 2016-2017 Toby Weston. <http://baddotrobot.com>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sodales porttitor lectus eget tempor. Sed elementum ultrices erat vel tempor. Sed dignissim convallis ipsum nec vehicula. Duis ut ullamcorper ligula. Duis dignissim odio quam, fringilla hendrerit ipsum mollis quis. Vivamus viverra, mauris finibus ultrices sagittis, velit urna iaculis nisi, non ullamcorper lacus est bibendum urna. 
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+Vivamus posuere turpis eget lacus viverra, eu euismod lorem lacinia. Duis vulputate dolor dui, quis sagittis lectus tincidunt posuere. Duis consectetur libero at urna ultricies hendrerit. Cras ut ultricies libero. Aliquam at blandit dui, nec consequat dui. Quisque tincidunt ipsum in lacinia venenatis. Integer tortor neque, viverra eget elit quis, auctor tempus mi. Phasellus eleifend tempor sem a commodo. Quisque a ornare urna. Fusce blandit luctus ligula.
 
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+Mauris gravida felis sed est auctor, quis euismod leo porttitor. Mauris porttitor ante et nisl faucibus gravida. Vivamus pharetra turpis id enim laoreet ullamcorper. Sed ac sem iaculis, accumsan est finibus, accumsan nisl. Fusce ac quam cursus, congue velit ac, malesuada felis. Sed fringilla ipsum eros, at sagittis nunc dignissim sed. Phasellus id arcu felis. Vivamus molestie risus vel venenatis suscipit. Mauris eget risus sem. Nunc lacinia, arcu vitae faucibus efficitur, lacus mauris dignissim dui, rhoncus scelerisque dolor ex finibus est.
