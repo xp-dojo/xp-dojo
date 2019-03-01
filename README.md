@@ -20,3 +20,32 @@ You should be able to preview the site using Jekyll to serve it.
 
 If you're going to publish it (`sbt site/publishMicrosite`), make sure you `site/makeMicrosite` first (otherwise you'll see a commit on the `gh-pages` branch with `0 commits`)
 
+
+## Publishing the Site
+
+> This only needs to be done once.
+
+We publish the site to Githubs `gh-pages`, setup the branch (one time) with the following:
+
+```bash
+# Using a fresh, temporary clone is safest for this procedure
+$ mkdir temp
+$ git clone git@github.com:youruser/yourproject.git
+$ cd yourproject
+
+# Create branch with no history or content
+$ git checkout --orphan gh-pages
+$ git rm -rf .
+
+# Establish the branch existence
+$ git commit --allow-empty -m "initialize gh-pages branch"
+$ git push origin gh-pages
+```
+
+Then delete the `temp` folder, you have a new empty branch. When that branch has HTML in it (say, a jekyll site), when you push, Github will "deploy" the HTML to it's web servers. Visit the publish site with http://xp-dojo.github.io/xp-dojo.
+
+### Domain Names
+
+If you have a domain name (like we do), add it to a file called `CNAME` and the above will redirect to it. Setup that domain name server to [point back to Github](https://www.google.com/search?q=setup+godaddy+cname+github+pages&rlz=1C5CHFA_enGB769GB769&oq=setup+godaddy+cname+github+pages&aqs=chrome..69i57.5277j0j7&sourceid=chrome&ie=UTF-8) (just a `A` records is enough). 
+
+Then go enjoy https://xp-dojo.org 
