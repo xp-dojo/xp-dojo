@@ -37,7 +37,7 @@ $ cd yourproject
 $ git checkout --orphan gh-pages
 $ git rm -rf .
 
-# Establish the branch existence
+# Establish the branch
 $ git commit --allow-empty -m "initialize gh-pages branch"
 $ git push origin gh-pages
 ```
