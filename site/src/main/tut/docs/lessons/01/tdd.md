@@ -3,7 +3,7 @@ layout: docs
 title: TDD
 ---
 
-# #1: TDD
+# #1: Test Driven Development
 
 An interactive session building a simple bank account using TDD and Pair Programming.
 
@@ -12,10 +12,10 @@ An interactive session building a simple bank account using TDD and Pair Program
 1. [TDD Bank Account Kata]() in JavaScript
 
 
-### Learning Objectives
+## Learning Objectives
 
-### Structure 
+## Structure 
 
-### Instructor Notes
+## Instructor Notes
 
 See the `INSTRUCTOR.md` file in the underlying repositories above.

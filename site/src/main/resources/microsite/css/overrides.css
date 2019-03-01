@@ -37,6 +37,15 @@ table {
 
 #content > .content-wrapper h1 {
     margin-top: 0;
+    font-size: 30px
+}
+
+#content > .content-wrapper h2 {
+    font-size: 24px
+}
+
+#content > .content-wrapper h3 {
+    font-size: 18px
 }
 
 .sidebar-nav > li a.active {
