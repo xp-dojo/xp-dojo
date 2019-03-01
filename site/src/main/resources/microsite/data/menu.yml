@@ -2,12 +2,20 @@ options:
   - title: Introduction
     url: docs/index.html
 
-  - title: Lessons
-    url: docs/lessons.html
-    section: lessons
+  - title: Live Sessions
+    url: docs/live_sessions.html
+    section: sessions
 
     nested_options:
-     - title: "Lesson 1: TDD"
+     - title: "#1: TDD"
        url: docs/lessons/01/tdd.html
-     - title: "Lesson 2: ATDD"
+     - title: "#2: ATDD"
        url: docs/lessons/02/atdd.html
+
+  - title: Talks
+    url: docs/live_sessions.html
+    section: talks
+
+  - title: Materials
+    url: docs/live_sessions.html
+    section: materials
