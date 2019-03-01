@@ -5,9 +5,9 @@ title: ATDD
 
 # Acceptance Test Driven Development
 
-An interactive session building from [Session 1](../01/tdd.html) to explore acceptance testing.
+An interactive session building from [Test Driven Development Session](../01/tdd.html) to explore acceptance testing.
 
- * [ATDD Bank Account Kata]() in Java and [Concordion](https://concordion.org/)
+ * [ATDD Bank Account Kata]() in Java and [Concordion](https://concordion.org/) ([Download as ZIP](https://github.com/xp-dojo/atdd-bank-account/archive/master.zip))
 
 
 ## Learning Objectives
