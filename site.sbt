@@ -7,7 +7,7 @@ lazy val siteSettings = Seq(
   micrositeName := "",
   micrositeDescription := "Extreme Programming Dojo",
 
-  micrositeHomepage := "http://xpdojo.org",
+  micrositeHomepage := "https://xpdojo.org",
   micrositeAuthor := "Toby, Ben, Pete and others",
   micrositeGithubOwner := "xp-dojo",
   micrositeGithubRepo := "xp-dojo",

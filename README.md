@@ -42,7 +42,7 @@ $ git commit --allow-empty -m "initialize gh-pages branch"
 $ git push origin gh-pages
 ```
 
-Then delete the `temp` folder, you have a new empty branch. When that branch has HTML in it (say, a jekyll site), when you push, Github will "deploy" the HTML to it's web servers. Visit the publish site with http://xp-dojo.github.io/xp-dojo.
+Then delete the `temp` folder, you have a new empty branch. When that branch has HTML in it (say, a jekyll site), when you push, Github will "deploy" the HTML to it's web servers. Visit the publish site with https://xp-dojo.github.io/xp-dojo.
 
 ### Domain Names
 
