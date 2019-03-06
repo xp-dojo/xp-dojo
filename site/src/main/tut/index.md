@@ -1,19 +1,28 @@
 ---
 layout: home
 technologies:
- - xp: ["XP", "eXtreme Programming ..."]
- - dojo: ["Dojo", "A safe place to practice..."]
+ - xp: ["XP", "eXtreme Programming came about in the late '90s and focused on developer practices. It was a hugely successful approach to software development and has become a key driver for modern agile methodologies."]
+ - dojo: ["Dojo", "A safe place to practice XP core disciplines. We've created a series of workshops and study materials which are free for everyone."]
+ - sessions: ["Dojo Sessions", "All the sessions are hosted on Github and are self contained. You can run through them on your own or in groups or we can host sessions on your behalf."]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sodales porttitor lectus eget tempor. Sed elementum ultrices erat vel tempor. Sed dignissim convallis ipsum nec vehicula. Duis ut ullamcorper ligula. Duis dignissim odio quam, fringilla hendrerit ipsum mollis quis. Vivamus viverra, mauris finibus ultrices sagittis, velit urna iaculis nisi, non ullamcorper lacus est bibendum urna. Vivamus posuere turpis eget lacus viverra, eu euismod lorem lacinia. 
+## What is xpdojo.org?
 
-Duis vulputate dolor dui, quis sagittis lectus tincidunt posuere. Duis consectetur libero at urna ultricies hendrerit. Cras ut ultricies libero. Aliquam at blandit dui, nec consequat dui. Quisque tincidunt ipsum in lacinia venenatis. Integer tortor neque, viverra eget elit quis, auctor tempus mi. Phasellus eleifend tempor sem a commodo. Quisque a ornare urna. Fusce blandit luctus ligula.
+A safe place to practice some of the engineering disciplines from eXtreme Programming. We’ve collected a series of workshop sessions that you can run yourself or invite us in to host. We also have a bunch of talks and smaller exercises that you can watch and experiment with on your own.
 
-Mauris gravida felis sed est auctor, quis euismod leo porttitor. Mauris porttitor ante et nisl faucibus gravida. Vivamus pharetra turpis id enim laoreet ullamcorper. 
+Head over to the [Study Materials](/docs) to find out more.
 
-Sed ac sem iaculis, accumsan est finibus, accumsan nisl. Fusce ac quam cursus, congue velit ac, malesuada felis. Sed fringilla ipsum eros, at sagittis nunc dignissim sed. Phasellus id arcu felis. Vivamus molestie risus vel venenatis suscipit. Mauris eget risus sem. Nunc lacinia, arcu vitae faucibus efficitur, lacus mauris dignissim dui, rhoncus scelerisque dolor ex finibus est.
+
+## Who’s behind xpdojo.org?
+
+A network of long time XP practitioners who want to promote and help share the basics. If you’re in London and want to find out more about live sessions, get in touch via Gitter.
+
 
 ## Manifesto
 
-* Demonstrate one thing and one thing well
-* All content is copyleft, it's free to use and distribute
+We believe in:
+
+- sharing our expertise with all levels of developers to lift everyone's skills
+- creating content that demonstrates one topic and one topic well
+- creating content that is accessible and doesn’t require previous experience with tooling
+- creating free content (be cool and don't try and monetise it)
