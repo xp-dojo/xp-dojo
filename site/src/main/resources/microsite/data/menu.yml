@@ -12,7 +12,7 @@ options:
      - title: "#2: ATDD"
        url: docs/lessons/02/atdd.html
      - title: "#3: Refactoring"
-       url: docs/live_sessions.html
+       url: docs/lessons/03/refactoring.html
 
   - title: Talks
     url: docs/talks.html
