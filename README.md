@@ -21,7 +21,7 @@ You should be able to preview the site using Jekyll to serve it.
 If you're going to publish it (`sbt site/publishMicrosite`), make sure you `site/makeMicrosite` first (otherwise you'll see a commit on the `gh-pages` branch with `0 commits`)
 
 
-## Publishing the Site
+## Initially Publishing the Site
 
 > This only needs to be done once.
 
