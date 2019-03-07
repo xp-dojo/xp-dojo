@@ -7,7 +7,7 @@ title: ATDD
 
 An interactive session building from [Test Driven Development Session](../01/tdd.html) to explore acceptance testing.
 
- * [ATDD Bank Account Kata]() in Java and [Concordion](https://concordion.org/) ([Download as ZIP](https://github.com/xp-dojo/atdd-bank-account/archive/master.zip))
+ * [ATDD Bank Account Kata](https://github.com/xp-dojo/atdd-bank-account) in Java and [Concordion](https://concordion.org/) ([Download as ZIP](https://github.com/xp-dojo/atdd-bank-account/archive/master.zip))
 
 
 ## Learning Objectives
@@ -24,11 +24,11 @@ During this session, you will gain insight into:
 
 ## Structure 
 
- 1. Intro to acceptance testing and Concordion (see the [slides]()) (10 mins)
+ 1. Intro to acceptance testing and Concordion (see the [slides](https://github.com/xp-dojo/atdd-bank-account/blob/master/slides.pptx?raw=true)) (10 mins)
  1. Start coding following the instructions in the underlying repository (80 mins)
  1. Instructor demo of reference implementation (30 mins)
 
 
 ## Instructor Notes
 
-See the `INSTRUCTOR.md` file in the underlying repositories above.
+See the [`INSTRUCTORS.md`](https://github.com/xp-dojo/atdd-bank-account/blob/master/INSTRUCTORS.md) file in the above repository.
