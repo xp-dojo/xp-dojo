@@ -14,7 +14,8 @@ lazy val siteSettings = Seq(
   micrositeDocumentationLabelDescription := "Study Materials",
   micrositeHighlightTheme := "atom-one-light",
   micrositeDocumentationUrl := "/docs",
-  micrositeGitterChannel := false,
+  micrositeGitterChannel := true,
+  micrositeGitterChannelUrl := "xp-dojo/community",
   micrositeShareOnSocial := false,
 
   micrositePalette := Map(
