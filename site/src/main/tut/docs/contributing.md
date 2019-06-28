@@ -16,7 +16,7 @@ This document describes:
 
 # Agreements
 
-For core contributors (those with write permission to the repositories), we aim to agree consensus on the goals and some specific mechanisms. This is mainly motivated by a need for consistency in both how the material is delivered (making it easy for students to learn) and ideology in what we can agree on as an effective way to teach.
+For core contributors (those with write permission to the repositories), we aim to agree consensus on our goals and some specific mechanisms. This is mainly motivated by a need for consistency in both how the material is delivered (making it easy for students to learn) and ideology in what we can agree on as an effective way to teach.
 
 
 ## Learning Objectives
@@ -39,11 +39,11 @@ Additionally, consider adding slides or supporting material to introduce the ses
 
 ### README.md
 
-The README is the customer facing entry point for the workshop. It should convey the purpose and learning objectives of the session along with instructions that students follow. It's not a project page for the contributors. 
+The README is the customer facing entry point for the workshops. It should convey the purpose and learning objectives of the session along with instructions that students follow. It's not a project page for the contributors. 
 
 You should try to maintain the convention and house style of the other repositories (using markdown appropriately for heading and section structure for example).
 
-The README should contain a license summary, see below.
+The README should also contain a license summary, see below.
 
 Appropriate content:
 
@@ -52,11 +52,12 @@ Appropriate content:
 * Specific instructions for the session. This is the 'ask'
 * Background material / educational content
 * Additional reading references
+* Licence summary (see below)
 
 
 ### INSTRUCTORS.md
 
-The instructor's README is more like the project page for the repository. It's more appropriate to list questions and memory joggers here as the audience is contributors and instructors. This should be the place we capture notes about running the seession and any trouble shooting recipes we've come up with. Empathise with someone coming back to teach the session not having done so for several months. 
+The instructor's README is more like the project page for the repository. It's more relaxed as the audience is contributors and instructors. This should be the place we capture notes about running the session and any trouble shooting recipes we've come up with. Empathise with someone coming back to teach the session not having done so for several months. 
 
 Appropriate content:
 
@@ -65,6 +66,7 @@ Appropriate content:
 * Session overview / how it should run / timings
 * A link to the instructor branch (for quick reference)
 * Trouble shooting / common problem solving that require an instructor
+* Possible extensions
 
 
 ### Instructor Branch
