@@ -30,9 +30,9 @@ Add this to the README.
 
 Each repository should have the following.
 
-1. README.md
-1. INSTRUCTORS.md
-1. Instructors Git branch
+1. `README.md`
+1. `INSTRUCTORS.md`
+1. `instructors` branch
 
 Additionally, consider adding slides or supporting material to introduce the sessions. Slides should be named `slides.pptx` so instructors know where to look and generally we favour short introductions and encourage hands of keys as soon as possible.
 
@@ -78,11 +78,9 @@ Licensing is an important consideration to protect contributors and make it easy
 
 Authors automatically claim copyright during the act of authoring, licensing is different. Each repository **must** be licensed as follows. 
 
-**Source code** should be licensed with the **APACHE 2.0**. There should be a `LICENSE` file in the root of the project. The Apache license requires a preample in each source file, see [the details](https://www.apache.org/licenses/LICENSE-2.0#apply). 
-
-**Materials**, slides and educational texts should be license with the **Creative Commons** license.
-
-**README**. The README should contain a summary of the license model. Cut and paste the following.
+* **Source code** should be licensed with the **APACHE 2.0**. There should be a `LICENSE` file in the root of the project. The Apache license requires a preample in each source file, see [the details](https://www.apache.org/licenses/LICENSE-2.0#apply). 
+* **Materials**, slides and educational texts should be license with the **Creative Commons** license.
+* The **README** should contain a summary of the license model. Cut and paste the following.
 
 ```
 # License
