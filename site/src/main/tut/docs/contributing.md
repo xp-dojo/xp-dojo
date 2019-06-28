@@ -8,7 +8,7 @@ Everyone is welcome to contribute. We follow a standard open source / GitHub mod
 
 This document describes:
 
-* Agreements contributors have accepted, forming a kind of code of conduct of how we build materials out
+* Agreements contributors have accepted, forming a kind of code of practice
 * Minimum required artifacts that we feel contribute to a good workshop
 * Licensing information
 * Committing and contribution model
