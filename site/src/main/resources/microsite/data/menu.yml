@@ -21,3 +21,7 @@ options:
   - title: Coding Exercises
     url: docs/exercises.html
     section: exercisee
+
+  - title: Contributing
+    url: docs/contributing.html
+    section: contributing
