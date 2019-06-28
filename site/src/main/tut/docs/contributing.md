@@ -98,6 +98,11 @@ See a discussion on licensing on [issue 7](https://github.com/xp-dojo/atdd-bank-
 It's not an ideal OSS model but we are suggesting repositories require at least two reviews before content can be merged into `master`. This can be enforced in GitHub under the projects Settings. It may sound draconian but it's trying to maintain a consensus amongst a diverse set of contributors. It means trunk based development isn't possible unfortunately.
 
 
+### Using GitHub Issues
+
+It's strongly suggested to create an issue in GitHub and add the number to the commit message. This gives everyone context and an oppertunity to contribute. See https://help.github.com/en/articles/closing-issues-using-keywords for GitHub keywords making it easy to work with issues directly from the commit message.
+
+
 ### Dealing with Pull Requests
 
 See above. If you receive a pull request, the nice thing to do is merge (refining as necessary locally) before closing the pull request. It's not fun leaving PRs orphaned with partially incorporated fragments, it leaves the branch useless as the author can't easily pick it up and amend the PR. Use the same [guidelines you would for OSS](https://help.github.com/en/articles/fork-a-repo) and for help, GitHub specific instructions are [here](https://help.github.com/en/articles/merging-a-pull-request).
