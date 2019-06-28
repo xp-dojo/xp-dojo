@@ -11,8 +11,10 @@ options:
        url: docs/lessons/01/tdd.html
      - title: "#2: ATDD"
        url: docs/lessons/02/atdd.html
-     - title: "#3: Refactoring"
-       url: docs/lessons/03/refactoring.html
+     - title: "#3: Consumer Driven Contracts"
+       url: docs/lessons/03/cdc.html
+     - title: "#4: Refactoring"
+       url: docs/lessons/04/refactoring.html
 
   - title: Talks
     url: docs/talks.html
