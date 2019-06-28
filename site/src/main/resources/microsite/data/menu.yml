@@ -12,7 +12,7 @@ options:
      - title: "#2: ATDD"
        url: docs/lessons/02/atdd.html
      - title: "#3: Consumer Contracts"
-       url: docs/lessons/03/cdc.md
+       url: docs/lessons/03/cdc.html
      - title: "#4: Refactoring"
        url: docs/lessons/04/refactoring.html
 
