@@ -4,12 +4,12 @@ title: Introduction
 ---
 # Contributing
 
-Everyone is welcome to contribute. We follow a standard open source / GitHub model and will review pull requests from everyone (see an example of [unsolicited grammar improvements](https://github.com/xp-dojo/atdd-bank-account/pull/16)). If you're not confident with the idea of pull requests, start [https://help.github.com/en/articles/about-pull-requests](https://help.github.com/en/articles/about-pull-requests). 
+Everyone is welcome to contribute. We follow a standard open source / GitHub model and will review pull requests from everyone (see an example of [unsolicited grammar improvements](https://github.com/xp-dojo/atdd-bank-account/pull/16)). If you're not confident with the idea of pull requests, start with [https://help.github.com/en/articles/about-pull-requests](https://help.github.com/en/articles/about-pull-requests). 
 
-This document describes
+This document describes:
 
-* Agreements contributors have accepted, forming a kind of code of conduct in how we build materials out
-* Minimum required artifacts that we feel contribute to a good set of materials
+* Agreements contributors have accepted, forming a kind of code of conduct of how we build materials out
+* Minimum required artifacts that we feel contribute to a good workshop
 * Licensing information
 * Committing and contribution model
 
@@ -17,6 +17,13 @@ This document describes
 # Agreements
 
 For core contributors (those with write permission to the repositories), we aim to agree consensus on the goals and some specific mechanisms. This is mainly motivated by a need for consistency in both how the material is delivered (making it easy for students to learn) and ideology in what we can agree on as an effective way to teach.
+
+
+## Learning Objectives
+
+This is the first thing to focus on. What are the learning objectives we're trying to convey. If we can't express them clearly, it's unlikely the session will land well. Amazon start with a press release. Think of this as our press release. Write it first then check if we've met them at the end.
+
+Add this to the README.
 
 
 ## Minimum Artifacts
@@ -88,8 +95,14 @@ See a discussion on licensing on [issue 7](https://github.com/xp-dojo/atdd-bank-
 
 ## Committing
 
-It's not an idea OSS model but we are suggesting repositories require at least two reviews before content can be merged into `master`. This may sound draconian but it's trying to maintain a consensus amongst a diverse set of contributors. It means trunk based development isn't possible.
+It's not an ideal OSS model but we are suggesting repositories require at least two reviews before content can be merged into `master`. This can be enforced in GitHub under the projects Settings. It may sound draconian but it's trying to maintain a consensus amongst a diverse set of contributors. It means trunk based development isn't possible unfortunately.
+
 
 ### Dealing with Pull Requests
 
 See above. If you receive a pull request, the nice thing to do is merge (refining as necessary locally) before closing the pull request. It's not fun leaving PRs orphaned with partially incorporated fragments, it leaves the branch useless as the author can't easily pick it up and amend the PR. Use the same [guidelines you would for OSS](https://help.github.com/en/articles/fork-a-repo) and for help, GitHub specific instructions are [here](https://help.github.com/en/articles/merging-a-pull-request).
+
+
+### Accepting new Committers
+
+Everyone can contribute via forking and pull requests. New committers (those directly added to the `instructor` team with write permission to the repositories) should be agreed and follow some evidence of prior contribution (pull requests accepted for example). An example from `@baldrick` can be found https://github.com/xp-dojo/atdd-bank-account/pull/16.
