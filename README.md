@@ -2,7 +2,7 @@
 
 The website and index of materials.
 
-Find lecture notes and details how to run the sessions. 
+Find lecture notes and details on how to run the sessions. 
 
 
 ## Building the Site
